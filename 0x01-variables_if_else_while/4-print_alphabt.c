@@ -13,6 +13,7 @@ for (ch = 'a'; ch <= 'z'; ch++)
 {
 if (ch != 'q' && ch != 'e')
 putchar(ch);
-putchar('\n');
+}
+putchar(10);
 return (0);
 }
