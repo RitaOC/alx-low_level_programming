@@ -23,7 +23,7 @@ else if (i % 5 == 0)
 {
 printf("Buzz");
 }
-welse
+else
 {
 printf("%i", i);
 }
